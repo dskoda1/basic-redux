@@ -18,6 +18,6 @@ app.listen(port, function(error) {
   if (error) {
     console.error(error)
   } else {
-    console.info("==> 🌎  Listening on port %s. Open up http://redux-todos-copy-dskoda1.c9users.io/ in your browser.", port)
+    console.info("==> 🌎  Listening on port %s. Open up http://puzzle-solver-dskoda1.c9users.io/ in your browser.", port)
   }
 })
